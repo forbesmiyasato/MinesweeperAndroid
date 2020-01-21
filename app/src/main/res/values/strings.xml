@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="author">Author: Forbes Miyasato</string>
+    <string name="email">Email: Forbes Miyasato</string>
+    <string name="version">Version: 1.0</string>
+    <string name="icon_info">App icon from:\nhttps://www.apksum.com/app/minesweeper/com.alcamasoft.minesweeper</string>
+    <string name="game_difficulty">Game Difficulty</string>
+    <string name="about">About</string>
+    <string name="hard">Hard</string>
+    <string name="medium">Medium</string>
+    <string name="easy">Easy</string>
+</resources>
